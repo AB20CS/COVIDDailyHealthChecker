@@ -19,7 +19,7 @@ const int ledPin = 13; //pin13 built-in led
 int TouchState=0; //store the value of touch switch
 int PreviousTouchState=-1; //stores the previous touch state value
 int ButtonState=0; //store the value of the button switch
-boolean recordTempMode = false; //If false use button to cycle temperature. if ture, take through temperature taking mode.
+boolean recordTempMode = false; //If false use button to cycle temperature. if true, take through temperature taking mode.
 
 
 void setup(void)
