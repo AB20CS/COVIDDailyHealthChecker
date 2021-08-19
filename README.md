@@ -7,9 +7,8 @@ Fever is a key indicator of a COVID-19 infection.  People often are asymptomatic
 For more information about this project, please visit: https://bit.ly/covid-daily-checker
 
 ## Required Hardware
-Arduino Mega 2560 
-
-Arduino Ethernet Shield to communicate with APIs and store measurements on a local SD card 
+- Arduino Mega 2560 
+- Arduino Ethernet Shield to communicate with APIs and store measurements on a local SD card 
 
 Sunfounder Humiture Sensor (with DHT11 sensor) for accurate measurement of room humidity and body temperature 
 
