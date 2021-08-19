@@ -11,5 +11,5 @@ For more information about this project, please visit: https://bit.ly/covid-dail
 - Arduino Ethernet Shield to communicate with APIs and store measurements on a local SD card 
 - Sunfounder Humiture Sensor (with DHT11 sensor) for accurate measurement of room humidity and body temperature 
 - Sunfounder Touch Switch to allow the temperature sensing mode to be turned in a controlled, repeatable process 
-Sainsmart LCD (I2C LCD1602) 
+- Sainsmart LCD (I2C LCD1602) 
 A router to provide network connection to the internet. In my case, I used my phone as an internet hotspot. 
