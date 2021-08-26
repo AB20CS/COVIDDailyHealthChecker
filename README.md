@@ -13,3 +13,6 @@ For more information about this project, please visit: https://bit.ly/covid-dail
 - Sunfounder Touch Switch to allow the temperature sensing mode to be turned in a controlled, repeatable process 
 - Sainsmart LCD (I2C LCD1602) 
 - A router to provide network connection to the internet. In my case, I used my phone as an internet hotspot. 
+
+<img src="https://user-images.githubusercontent.com/69637288/130885969-79018729-0aee-4025-bd2c-23ba614df99e.png">
+
