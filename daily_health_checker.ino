@@ -10,6 +10,7 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 
+// Declare Liquid Crystal Display Object
 LiquidCrystal_I2C lcd(0x3F,16,2);
 
 const int chipSelect = 4;
@@ -17,6 +18,7 @@ File sdcard_file;
 
 const int TouchPin=6; //touch switch attach to pin1
 const int ledPin = 13; //pin13 built-in led
+
 int TouchState=0; //store the value of touch switch
 int PreviousTouchState=-1; //stores the previous touch state value
 int ButtonState=0; //store the value of the button switch
