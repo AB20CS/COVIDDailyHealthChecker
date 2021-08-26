@@ -42,7 +42,7 @@ void setup(void)
   }
   Serial.println("Card initialized.");
 
-  sdcard_file = SD.open("data.csv", FILE_WRITE);
+  sdcard_file = SD.open("data.csv", FILE_WRITE); // open data.csv in SD card
   
   // if the file is available, write to it:
   
