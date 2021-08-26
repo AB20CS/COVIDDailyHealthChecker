@@ -202,5 +202,5 @@ void displayIntro()
     digitalWrite(ledPin,LOW); //turn off the led
     lcd.setCursor(0,0); // set the cursor to column 0, line 0
     lcd.print("Touch to begin"); // Print a message to the LCD
-    delay(3000);
+    delay(3000); // 3 second delay
 }
