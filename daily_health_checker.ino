@@ -1,9 +1,10 @@
-
+// Imports
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 #include <SD.h>
 #include "DHT.h"
 
+// Constants
 #define DHTPIN 7 
 #define DHTTYPE DHT11   // DHT 11
 
